@@ -8,10 +8,11 @@ Here are the datails that is used in this project->
 In ML-->
 i) Jupyter Notebook
 ii) Streamlit package
-iii) movie_metadata.csv
-iv)Python 
-v) Json Data
-vi) Shell
+iii) Pandas,numpy
+iv) movie_metadata.csv
+v)Python 
+vi) Json Data
+vii) Shell
 
 IN Web -->
 i) HTML
