@@ -20,5 +20,4 @@ ii)CSS
 III)JavaScript
 iv) Jquery
 v) OMDB Api
-vi)BootStrap
 
