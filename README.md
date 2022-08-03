@@ -3,7 +3,7 @@
           
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subh839&label=Profile%20views&color=0e75b6&style=flat" alt="subh839" /> </p>
+
 
 - 🔭  *Movie-Recomender*
  <h1 align="center">We can never get a correct suggestion about movies and series from somewhere. So without depending on people or other websites, why not use our website  to find the best of the best recommendations of movies and series you love?. </h1>
