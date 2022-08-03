@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subh839&label=Profile%20views&color=0e75b6&style=flat" alt="subh839" /> </p>
 
-- 🔭  *Kasrat-Gym*
+- 🔭  *Movie-Recomender*
  <h1 align="center">We can never get a correct suggestion about movies and series from somewhere. So without depending on people or other websites, why not use our website  to find the best of the best recommendations of movies and series you love?. </h1>
 - 👨‍💻   Never get any biased or inappropriate suggestions about movies from people. Choose your own.  Our website uses machine learning algorithm to find you the best recommendations of movies and web-series you can ever get. 
 
